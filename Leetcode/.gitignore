@@ -1,0 +1,17 @@
+../*
+!./*
+*.log
+*.txt
+*.dat
+*.ini
+*.lock
+.DS_Store
+node_modules/
+.vscode/
+AppData/
+Downloads/
+Documents/
+Music/
+Videos/
+*.json
+*.config
